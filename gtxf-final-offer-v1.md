@@ -3,7 +3,6 @@
 
 ### Beispiel
 ````json
-// Grundaufbau des Formates
 {
   "format": "gtxf-final-offer-v1",
   "language": "DE",
