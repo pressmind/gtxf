@@ -99,8 +99,8 @@
 |---|---|---|
 |departure|DateTime | Anreisedatum|
 |return|DateTime | Rückreisedatum|
-|transport|[Transport](#Transport) | Transportart, z.B. Busreise|
-|room|[Room](#Room) | Zimmerleistung samt Verpflegugung des Angebotes|
+|transport|[Transport](#Transport), null | Transportart, z.B. Busreise|
+|room|[Room](#Room), null | Zimmerleistung samt Verpflegugung des Angebotes, null bei Tagesfahrten|
 |price|string | Brutto-Endpreis |
 |booking|[Booking](#Booking) |Sammlung der Leistungscode welche zur Buchung des Angebotes benötigt werden.|
 
@@ -127,4 +127,4 @@
 
 ## HTML Markup
 Folgendes HTML Markup ist zulässig: <br>
-``<span> <p> <br> <i> <ul> <li> <b> <strong> <table> <tr> <th> <td>`` sowie innherlab der Elemente das Attribut ``class``
+``<span> <p> <br> <i> <ul> <li> <b> <strong> <table> <tr> <th> <td>`` sowie innerhalb der Elemente das Attribut ``class``
