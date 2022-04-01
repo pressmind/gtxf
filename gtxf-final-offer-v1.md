@@ -52,20 +52,20 @@ Vollständiges Beispiel:
 [example-gtxf-final-offer-v1.json](example-gtxf-final-offer-v1.json)
 
 
-#DateRange
+## DateRange
 | Property| Type | Beschreibung |   
 |---|---|---|
 |from|DateTime | |
 |to|DateTime | |
 
-##Image
+## Image
 | Property| Type | Beschreibung |   
 |---|---|---|
 |url|string | URl zu Bild. Das Bild darf von dieser URL aus niemals produktiv eingebinden werden. Es ist zu cachen.|
 |caption|string | Bildunterschrift|
 |copyright|string | Copyright |
 
-##Teaser
+## Teaser
 | Property| Type | Beschreibung |   
 |---|---|---|
 |title|string | |
@@ -79,7 +79,7 @@ Vollständiges Beispiel:
 |items|[AttributeItem[]](#AttributeItem) | |
 
 
-#AttributeItem
+## AttributeItem
 | Property| Type | Beschreibung |   
 |---|---|---|
 |id|string | |
@@ -87,13 +87,13 @@ Vollständiges Beispiel:
 |code|string | |
 |childs|[AttributeItem[]](#AttributeItem)| |
 
-#Description
+## Description
 | Property| Type | Beschreibung |   
 |---|---|---|
 |name|string | Bezeichner des Beschreibungblocks|
 |content|string | Inhalt des Beschreibungsblocks als HTML, [siehe HTML Markup](#HTML Markup) |
 
-##Services
+## Services
 | Property| Type | Beschreibung |   
 |---|---|---|
 |included|string | Inkludierte Leistungen als HTML, [siehe HTML Markup](#HTML Markup)|
@@ -109,19 +109,19 @@ Vollständiges Beispiel:
 |booking|[Booking](#Booking) |Sammlung der Leistungscode welche zur Buchung des Angebotes benötigt werden.|
 
 
-##Room
+## Room
 | Property| Type | Beschreibung |   
 |---|---|---| 
 |occupancy|int | Belegung|
 |board|string | Verpflegung, z.B. "Vollpension"|
 |label|string | Zimmer, z.B. "Doppelzimmer mit Meerbliock" |
 
-##Transport
+## Transport
 | Property| Type | Beschreibung |   
 |---|---|---| 
 |type|enum('BUS', 'PKW', 'FLIGHT') | Die Transportart |
 
-##Booking
+## Booking
 | Property| Type | Beschreibung |   
 |---|---|---|
 |key|string | Variabler Key zur Identifizierung der Leistungart|
@@ -129,6 +129,6 @@ Vollständiges Beispiel:
 |code|string | Leistungscode|
 
 
-##HTML Markup
+## HTML Markup
 Folgendes HTML Markup ist zulässig: <br>
 ``<span> <p> <br> <i> <ul> <li> <b> <strong> <table> <tr> <th> <td>`` sowie innherlab der Elemente das Attribut ``class``
