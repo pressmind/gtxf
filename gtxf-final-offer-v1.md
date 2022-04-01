@@ -24,6 +24,9 @@
 }
 ````
 
+*Vollständiges Beispiel:*
+[example-gtxf-final-offer-v1.json](example-gtxf-final-offer-v1.json)
+
 ## Objektbeschreibung gtxf-final-offer-v1
 | Property| Type | Beschreibung |   
 |---|---|---| 
@@ -44,12 +47,6 @@
 |links|string | Links, z.B. auch Videos |
 |services|[Services](#Services) | Leistungen, bzw. Inklusivleistungen|
 |offers|[Offer[]](#Offer) | die buchbaren Angebote bzw. Reisetermine |
-
-
-
-Vollständiges Beispiel:
-[example-gtxf-final-offer-v1.json](example-gtxf-final-offer-v1.json)
-
 
 ## DateRange
 | Property| Type | Beschreibung |   
