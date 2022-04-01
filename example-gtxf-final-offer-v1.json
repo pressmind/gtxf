@@ -1,0 +1,290 @@
+{
+  "format": "gtxf-final-offer-v1",
+  "language": "DE",
+  "product-type": "P",
+  "id": "2106607",
+  "code": "Aktiv-S22-006",
+  "active": true,
+  "valid": {
+    "from": null,
+    "to": null
+  },
+  "name": "Rügen-Stralsund Radreise",
+  "url": "https://xxxx.de//?id=2106607",
+  "teaser": {
+    "title": "Radreise an der Ostseeküste: Stralsund &amp; Insel Rügen",
+    "content": "",
+    "images": [
+      {
+        "url": "https://images.pressmind.net/?id=1290944&v=web",
+        "caption": "mit dem Fahrrad an der Ostsee",
+        "copyright": "©Nordreisender - stock.adobe.com"
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://images.pressmind.net/?id=1290944&v=web",
+      "caption": "mit dem Fahrrad an der Ostsee",
+      "copyright": "©Nordreisender - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=660036&v=web",
+      "caption": "Fahrräder am Strand",
+      "copyright": "© tilialucida - Fotolia"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1614429&v=web",
+      "caption": "Radeln an der Steilküste von Ahrenshoop",
+      "copyright": "©Brigitte Wegner - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=2081684&v=web",
+      "caption": "Kurhaus des Ostseebades Binz auf der Insel Rügen",
+      "copyright": "© Mirko Boy - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1782980&v=web",
+      "caption": "Stralsund",
+      "copyright": "© JFL Photography - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1923890&v=web",
+      "caption": "Hafen von Stralsund,Deutschland",
+      "copyright": "©Sina Ettmer - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1219225&v=web",
+      "caption": "Stralsund an der Ostsee",
+      "copyright": "© Rochu_2008 - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1782977&v=web",
+      "caption": "Kap Arkona auf Rügen",
+      "copyright": "© Marcus Klepper - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1568064&v=web",
+      "caption": "Leuchtturm des Kap Arkona im Sommer auf Rügen, Deutschland",
+      "copyright": "©JFL Photography - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1896763&v=web",
+      "caption": "Strand von Zingst auf der Halbinsel Fischland-Darß in Mecklenburg-Vorpommern, Deutschland",
+      "copyright": "© Sina Ettmer - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1571623&v=web",
+      "caption": "Strandpromenade von Binz auf Rügen, Deutschland",
+      "copyright": "© Comofoto - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=1782974&v=web",
+      "caption": "Fachwerkhaus in Warnemünde",
+      "copyright": "© ArTo - stock.adobe.com"
+    },
+    {
+      "url": "https://images.pressmind.net/?id=625095&v=web",
+      "caption": "Mountainbike in den Sonnenuntergang",
+      "copyright": "© pershing - Fotolia"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "reiseart_default",
+      "items": [
+        {
+          "id": "5628b1a921632af540704bfffc2cfd84",
+          "name": "Kurz- & Erlebnisreisen",
+          "code": "",
+          "childs": []
+        }
+      ]
+    },
+    {
+      "name": "beförderung_default",
+      "items": [
+        {
+          "id": "2c1712c7c505060b2d58a6bf2cf13a54",
+          "name": "Busreise",
+          "code": "",
+          "childs": []
+        }
+      ]
+    },
+    {
+      "name": "bustyp_default",
+      "items": [
+        {
+          "id": "kA454477E-D633-F4CE-B57C-218734C573D4",
+          "name": "5* Bikeliner-Bus",
+          "code": "",
+          "childs": []
+        }
+      ]
+    },
+    {
+      "name": "saison_default",
+      "items": [
+        {
+          "id": "k83612F10-2AF3-240F-C0F5-DE2150C642FA",
+          "name": "Sommer 2022",
+          "code": "",
+          "childs": []
+        }
+      ]
+    },
+    {
+      "name": "zielgebiet_default",
+      "items": [
+        {
+          "id": "c4e4f752b2858000c7db3f8a4e06e5db",
+          "name": "Deutschland",
+          "code": "DE",
+          "childs": []
+        }
+      ]
+    }
+  ],
+  "descriptions": [
+    {
+      "name": "preline_default",
+      "content": "<p>Eine Küstenradtour mit faszinierenden Facetten!</p>"
+    },
+    {
+      "name": "headline_default",
+      "content": "<p>Radreise an der Ostseeküste: Stralsund &amp; Insel Rügen</p>"
+    },
+    {
+      "name": "einleitung_default",
+      "content": "<p>Entdecken Sie von Stralsund aus die Küstenregion Vorpommerns und die Insel Rügen, Hiddensee sowie die Halbinsel Fischland-Darß-Zingst. Feinsandige Strände, frische Meeresluft und beeindruckende Küstenlandschaften machen diese Radtour zu einem einzigartigen Erlebnis!</p>"
+    },
+    {
+      "name": "beschreibung_text_langtext",
+      "content": "<p><span class=\"Head_1\">Tag 1 </span><b>Anreise nach Stralsund</b></p><p>Die Anreise im 5* Bikeliner-Bus verspricht einen tollen Auftakt für diese schöne Reise. Mit Ihrem Fahrrad im Fahrradanhänger erreichen wir am Nachmittag unser tolles 4* Hotel Baltic in Stralsund. Nach dem Zimmerbezug treffen wir uns zum gemeinsamen Abendessen.</p><p></p><p><span class=\"Head_1\">Tag 2 </span><b>Rügen - Kap Arkona - Breege - Vitt</b></p><p>Nach dem Frühstück Begrüßung durch unseren Rad-Guide und Fahrt mit dem Bus nach Ralswiek. Hier beginnt die Radtour entland des Boddens nach Glowe. Sie haben einen tollen Blick zum Kap Arkona und auf die Ostsee. Entlang der Schaabe radeln Sie nach Breege und Altenkirchen mit der alten Dorfkirche aus dem 12. Jahrhundert – weiter nach Nobbin, bekannt durch das Großsteingrab aus der Jungsteinzeit. Wir erreichen das urige Fischerdörfchen Vitt; kurzer Aufenthalt. Am Hochufer entlang führt der Weg zu den Leuchttürmen nach Arkona und nach Putgarten; kurzer Aufenthalt. Hier erwartet Sie unser Bus zur Rückfahrt zum Hotel.</p><p><b>(ca. 35 km; Schwierigkeitsgrad: einfach)</b></p><p></p><p><span class=\"Head_1\">Tag 3 </span><b>Südrügen </b></p><p>Unser Bus bringt Sie nach Baabe. Von hier aus radeln Sie bis zum Bollwerk und mit dem Fähr-Ruderboot geht es nach Moritzdorf. Von der Ausflugsgaststätte Moritzburg haben sie einen schönen Ausblick auf die Halbinsel Mönchgut. Nächste Station ist Seedorf, hier verbinden sich Land und Wasser zu einer besonderen Landschaft. Sie radeln direkt am Ufer der Stresower Bucht, immer den Blick auf den Großen Jasmunder Bodden und auf die Insel Vilm. Sie radeln vorbei am Hafen Lauterbach nach Putbus. Die Fürstenresidenz mit seinen klassizistischen Gebäuden und der Parkanlage zählt zu den schönsten Orten der Insel. Von Putbus fährt die Schmalspurbahn „Rasender Roland” in 30 Minuten nach Binz. Nostalgie auf Schienen. Eine Führung durch das größte Seebad Rügens beschließt den Tagesausflug.</p><p><b>(ca. 25 km; Schwierigkeitsgrad: einfach)</b></p><p></p><p><span class=\"Head_1\">Tag 4 </span><b>Halbinsel Fischland-Darß-Zingst</b></p><p>Mit dem Bus geht es nach Prerow. Von hier startet die Radtour durch kleine urige Fischerdörfchen wie Wiek und Born um dann Ahrenshoop mit dem tollen Ostseestrand zu erreichen. Weiter geht es über die Seebäder Wustrow und Dierhagen, dann die Boddenküste entlang bis nach Ribnitz Damgarten. Nach kleiner Verweilzeit auf dem Markt geht es zurück zum Hotel. </p><p><b>(ca. 40 km; Schwierigkeitsgrad: einfach)</b></p><p></p><p><span class=\"Head_1\">Tag 5 </span><b>Seebad Binz - Mönchgut</b></p><p>Die heutige Radtour beginnt im Seebad Binz und führt durch das Waldgebiet der Granitz nach Sellin entlang der Bäderarchitektur. In Baabe radeln Sie die Strandallee rauf und runter und weiter nach Göhren. Hier wäre Zeit für einen Besuch des Mönchguter Heimatmuseums. Von Göhren nach Lobbe fahren Sie am Meer entlang, vorbei am Museumsschiff „Luise”. Der Radwanderweg führt durch den Küstenwald bis zum Abzweig Gager. Sie kommen nach Groß Zicker, eines der schönsten Fischerdörfer der Insel. Durch den Park von Middelhagen radeln Sie nach Göhren. Von hier aus geht es mit dem Bus zurück nach Binz (alternativ Möglichkeit mit der Schmalspurbahn „Rasender Roland”). Abendessen und Übernachtung im Hotel</p><p><b>(ca. 35 km; Schwierigkeitsgrad: einfach)</b></p><p></p><p><span class=\"Head_1\">Tag 6 </span><b>Heimreise</b></p><p>Noch einmal genießen wir das gute Frühstück, bevor wir die Heimreise antreten.</p>"
+    },
+    {
+      "name": "beschreibung_text_kurztext",
+      "content": "<p><b><i></i></b></p>"
+    },
+    {
+      "name": "highlights_default",
+      "content": "<ul><li>Top 4* Hotel Baltic in Stralsund</li><li>Viele Leistungen inklusive</li></ul>"
+    },
+    {
+      "name": "leistungen_headline_default",
+      "content": "<p>Leistungen</p>"
+    },
+    {
+      "name": "leistungen_default",
+      "content": "<ul><li>Reise im 5* Bikeliner-Bus mit Stewardess-Service und Reiseleitung</li><li>Radtransport im Fahrradanhänger</li><li>5x Übernachtung im 4* Hotel Baltic in Stralsund</li><li>alle Zimmer mit Bad oder DU/WC, Föhn, Sat-TV, Safe und WLAN</li><li>5x reichhaltiges Frühstücksbuffet im Hotel</li><li>2x Abendessen als 3-Gang-Menü oder Buffet im Hotel</li><li>alle Transfers wie im Reiseablauf beschrieben </li><li>Rad-Reiseleitung auf allen Rad-Etappen</li><li>Kurtaxe</li></ul>"
+    },
+    {
+      "name": "hinweise_default",
+      "content": "<p><b>Leihfahrräder:</b></p><p><b>„SCHUY“ E-Bike </b></p><p>Räder mit elektrischer Tretunterstützung und Satteltaschen</p><p>ca. 70 - 100 km Reichweite (je nach Fahrweise)</p><p>Testmöglichkeit für einen Tag vor der Reise inklusive </p><p>€ 100,-</p><p><b></b></p><p>Tourencharakter: Die Strecken sind überwiegend flach, teils auch mit einigen kurzen steilen Anstiegen. Gefahren wird z.T. auf sandigen Feldwegen, Waldwegen und Spurstraßen. Für Einsteiger und Genussradler gut geeignet.</p>"
+    },
+    {
+      "name": "hotel_headline_default",
+      "content": "IHR HOTEL"
+    },
+    {
+      "name": "hotel_name_1_default",
+      "content": "4* Hotel Baltic in Stralsund"
+    },
+    {
+      "name": "hotel_1_default",
+      "content": "<p>Das 4* Hotel Baltic in Stralsund liegt zentral nur 4 Gehminuten von der Altstadt entfernt. Die modernen Zimmer verfügen über Bad/DU/WC, Sat-TV, Föhn und teils herrlichen Blick auf den Hafen oder die Altstadt.</p>"
+    }
+  ],
+  "locations": [],
+  "links": [],
+  "services": {
+    "included": "<p>Leistungen</p><ul><li>Reise im 5* Bikeliner-Bus mit Stewardess-Service und Reiseleitung</li><li>Radtransport im Fahrradanhänger</li><li>5x Übernachtung im 4* Hotel Baltic in Stralsund</li><li>alle Zimmer mit Bad oder DU/WC, Föhn, Sat-TV, Safe und WLAN</li><li>5x reichhaltiges Frühstücksbuffet im Hotel</li><li>2x Abendessen als 3-Gang-Menü oder Buffet im Hotel</li><li>alle Transfers wie im Reiseablauf beschrieben </li><li>Rad-Reiseleitung auf allen Rad-Etappen</li><li>Kurtaxe</li></ul>"
+  },
+  "offers": [
+    {
+      "departure": {
+        "date": "2022-04-23 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Berlin"
+      },
+      "return": {
+        "date": "2022-04-28 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Berlin"
+      },
+      "transport": {
+        "type": "BUS"
+      },
+      "room": {
+        "occupancy": 2,
+        "label": "Doppelzimmer DU/WC"
+      },
+      "price": 719,
+      "booking": [
+        {
+          "key": "date",
+          "id": 310219858,
+          "code": "5541"
+        },
+        {
+          "key": "accommodation",
+          "id": 13277881,
+          "code": ""
+        },
+        {
+          "key": "transport_departure",
+          "id": 267454083,
+          "code": "42664"
+        },
+        {
+          "key": "transport_return",
+          "id": 267454084,
+          "code": "42667"
+        }
+      ]
+    },
+    {
+      "departure": {
+        "date": "2022-04-23 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Berlin"
+      },
+      "return": {
+        "date": "2022-04-28 00:00:00.000000",
+        "timezone_type": 3,
+        "timezone": "Europe/Berlin"
+      },
+      "transport": {
+        "type": "BUS"
+      },
+      "room": {
+        "occupancy": 1,
+        "label": "Einzelzimmer DU/WC"
+      },
+      "price": 859,
+      "booking": [
+        {
+          "key": "date",
+          "id": 310219858,
+          "code": "5541"
+        },
+        {
+          "key": "accommodation",
+          "id": 13277881,
+          "code": ""
+        },
+        {
+          "key": "transport_departure",
+          "id": 267454083,
+          "code": "42664"
+        },
+        {
+          "key": "transport_return",
+          "id": 267454084,
+          "code": "42667"
+        }
+      ]
+    }
+  ]
+}
