@@ -1,0 +1,58 @@
+[
+  {
+    "value": "Advent & Weihnachten",
+    "code": "AW"
+  },
+  {
+    "value": "Erlebnis- & Rundreisen",
+    "code": "ER"
+  },
+  {
+    "value": "Fluß- / Kreuzfahrten",
+    "code": "FK"
+  },
+  {
+    "value": "Freizeit & Natur",
+    "code": "FK"
+  },
+  {
+    "value": "Freizeit & Natur",
+    "code": "FN"
+  },
+  {
+    "value": "Kur & Wellness",
+    "code": "KW"
+  },
+  {
+    "value": "Messen & Events",
+    "code": "ME"
+  },
+  {
+    "value": "Musicals & Konzerte",
+    "code": "MK"
+  },
+  {
+    "value": "Pilgerreisen",
+    "code": "PR"
+  },
+  {
+    "value": "Silvesterreise",
+    "code": "SR"
+  },
+  {
+    "value": "Sonne, Strand & Meer",
+    "code": "SM"
+  },
+  {
+    "value": "Sport & Aktivurlaub",
+    "code": "SA"
+  },
+  {
+    "value": "Städtereisen",
+    "code": "ST"
+  },
+  {
+    "value": "Wintersport & Skireisen",
+    "code": "WS"
+  }
+]
